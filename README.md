@@ -1,4 +1,4 @@
-# SevenAppsProject
+# JSONPlaceholderProject
 
 ## Features
 1. **User List Screen**
